@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
 - 3rd year Computer Science Student
-- Interested in AI/ML
+- Interested in AI/ML, Software Development
 - Open to work with people and learn new things
 
 
